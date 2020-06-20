@@ -1,0 +1,5 @@
+﻿  Source.cpp
+Source.obj : error LNK2001: unresolved external symbol __imp___CrtDbgReport
+Source.obj : error LNK2001: unresolved external symbol __imp___invalid_parameter
+Source.obj : error LNK2001: unresolved external symbol __imp___calloc_dbg
+C:\Users\khang\source\repos\TetrixClone\Release\TetrixClone.exe : fatal error LNK1120: 3 unresolved externals
