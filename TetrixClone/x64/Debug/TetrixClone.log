@@ -1,9 +1,10 @@
 ﻿  Source.cpp
-c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(138): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(169): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(193): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(194): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(177): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(256): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\khang\source\repos\tetrixclone\tetrixclone\source.cpp(257): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
   TetrixClone.vcxproj -> C:\Users\khang\source\repos\TetrixClone\x64\Debug\TetrixClone.exe
